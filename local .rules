@@ -1,0 +1,1 @@
+alert 190.6.193.152 80 -> 10.0.0.12 80 (msg:"Sample rule"; content:"HTTP/1.1 200"; sid:12000001;)
